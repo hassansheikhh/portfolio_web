@@ -19,9 +19,9 @@ function App() {
           <Navbar />
           <Social />
           <Landing />
-          <ProjectList />
           <About />
-          <Contact />
+          {/* <Contact /> */}
+          <ProjectList />
         </>
       )}
     </>

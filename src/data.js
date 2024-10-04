@@ -39,18 +39,18 @@ export const projects = [
     // source: "https://github.com/nhanng19/Fooder",
     delay: "200",
   },
-  // {
-  //   id: 4,
-  //   title: "Jingle",
-  //   techno: "HTML | CSS | JavaScript | Web API",
-  //   description: "Music Guessing Game",
-  //   summary:
-  //     "We wanted to find a interactive way to use data from an API that worked with music specifically, was inspired by the recent game wordle. Small music themed game that uses the last.fm API to pull a top track list, and Wikipedia's MediaWiki Api to pull a artist photo, so that users can play by guessing the artist who performed a song name that is randomly generated. ",
-  //   img: Jingle,
-  //   link: "https://nhanng19.github.io/music_wordle",
-  //   source: "https://github.com/nhanng19/music_wordle",
-  //   delay: "0",
-  // },
+  {
+    id: 4,
+    title: "NFT Web",
+    techno: "NextJs | Tailwind | TypeScript",
+    description: "NFT Producing Web",
+    summary:
+      "A modern NFT platform for exploring, buying, and selling digital assets, featuring trending collections and wallet integration.",
+    img: Jingle,
+    link: "https://nft-web-henna.vercel.app/",
+    // source: "https://github.com/nhanng19/music_wordle",
+    delay: "0",
+  },
   // {
   //   id: 5,
   //   title: "CSS Portfolio",

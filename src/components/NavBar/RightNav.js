@@ -74,11 +74,11 @@ const RightNav = ({ open }) => {
           ABOUT
         </Link>
       </li>
-      <li>
+      {/* <li>
         <Link to="contact" spy={true} smooth={true} offset={50} duration={500}>
           CONTACT
         </Link>
-      </li>
+      </li> */}
       <li>
         <a
           href="https://drive.google.com/file/d/1tLNIJZveMJERBB2YLzVF7Yr-YUnPTR1J/view?usp=sharing"
